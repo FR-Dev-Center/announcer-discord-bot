@@ -1,17 +1,17 @@
 {
-  "name": "bot-template",
+  "name": "announcer",
   "version": "1.0.0",
-  "description": "Build your own Discord Bot using this builder template.",
+  "description": "Manage tickets, nicknames and advanced announcements.",
   "main": "app.js",
   "scripts": {
     "serve": "nodemon . --no-warnings",
     "start": "node . --no-warnings"
   },
   "keywords": [
-    "Discord-Bot",
-    "Template",
-    "Bot",
-    "Discord-Bot-Template"
+    "Announcer",
+    "Tickets",
+    "Web Sockets",
+    "Live Messaging"
   ],
   "author": "Loïc MAES",
   "license": "MIT",
